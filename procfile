@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run fish_eye_transformation/distortion_streamlit_demo.py
